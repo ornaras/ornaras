@@ -21,9 +21,9 @@
 <div align="center">
 
 ## 🚀 Primary stack 🚀
-  <img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logoColor=white" alt="C#"> 
-  <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&logo=go" alt="Go"> 
-  <img src="https://img.shields.io/badge/.net-5C2D91?style=for-the-badge&logoColor=white&logoSize=auto" alt=".Net">
+  <img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logoColor=white&logoSize=auto" alt="C#"> 
+  <img src="https://img.shields.io/badge/_-white?style=for-the-badge&logo=go&logoSize=auto" alt="Go"> 
+  <img src="https://img.shields.io/badge/_-5C2D91?style=for-the-badge&logoColor=white&logoSize=auto&logo=dotnet" alt=".Net">
   <img src="https://img.shields.io/badge/wpf-5C2D91?style=for-the-badge&logoColor=white&logoSize=auto" alt="WPF">
   <img src="https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&logoSize=auto" alt="SQLite"> 
   <img src="https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto" alt="Postgres">
@@ -39,9 +39,9 @@
   <img src="https://img.shields.io/badge/Swagger-Clojure?style=for-the-badge&logo=swagger&logoColor=white&logoSize=auto" alt="Swagger"> 
 
 ## 🧪 Secondary stack 🧪
-  <img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"> 
-  <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
+  <img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoSize=auto&logoColor=white" alt="Dart"> 
+  <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoSize=auto&logoColor=white" alt="Java"> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoSize=auto&logoColor=ffdd54" alt="Python"> 
   <img src="https://img.shields.io/badge/Pascal-FFFFFF.svg?style=for-the-badge&logoColor=white&logoSize=auto" alt="Pascal">
   <img src="https://img.shields.io/badge/winforms-5C2D91?style=for-the-badge&logoColor=white&logoSize=auto" alt="WinForms">
   <img src="https://img.shields.io/badge/asp.net-5C2D91?style=for-the-badge&logoColor=white&logoSize=auto" alt="ASP.NET">
@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/cisco-049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white&logoSize=auto" alt="Cisco"> 
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoSize=auto" alt="JWT">
   <img src="https://img.shields.io/badge/Roslyn-c1272d?style=for-the-badge&logoSize=auto" alt="Roslyn">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoSize=auto&logoColor=white" alt="n8n">
   
 </div>
 
