@@ -60,7 +60,7 @@
 
 ## ⏲️ WakaTime Stat (Last year) ⏲️
 <div align="center">
-  <a href="https://wakatime.com/@ornaras"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ornaras&theme=transparent&hide_title=true&layout=compact&hide_border=true"/></a>
+  <a href="https://wakatime.com/@ornaras"><img src="https://github-readme-stats-ornaras.vercel.app/api/wakatime?username=ornaras&theme=transparent&hide_title=true&layout=compact&hide_border=true"/></a>
 </div>
 
 # 🗂️ My Projects 🗂️
@@ -80,14 +80,14 @@
 # 📜 My Gists 📜
 <div align="center">
 
-[![Atol.Driver10.Fptr.Constants.cs](https://github-readme-stats.vercel.app/api/gist?id=2a1237ffa669f63c20c5482d653ed4aa&theme=transparent)](https://gist.github.com/ornaras/2a1237ffa669f63c20c5482d653ed4aa)
-[![Environment.SpecialFolder.md](https://github-readme-stats.vercel.app/api/gist?id=8fe025942e41d584c8e200ea0e91ea51&theme=transparent)](https://gist.github.com/ornaras/8fe025942e41d584c8e200ea0e91ea51)
+[![Atol.Driver10.Fptr.Constants.cs](https://github-readme-stats-ornaras.vercel.app/api/gist?id=2a1237ffa669f63c20c5482d653ed4aa&theme=transparent)](https://gist.github.com/ornaras/2a1237ffa669f63c20c5482d653ed4aa)
+[![Environment.SpecialFolder.md](https://github-readme-stats-ornaras.vercel.app/api/gist?id=8fe025942e41d584c8e200ea0e91ea51&theme=transparent)](https://gist.github.com/ornaras/8fe025942e41d584c8e200ea0e91ea51)
 
 </div>
 
 # 📊 GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornaras&theme=transparent&layout=donut"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ornaras&theme=transparent&show=reviews"/>
+  <img src="https://github-readme-stats-ornaras.vercel.app/api/top-langs/?username=ornaras&theme=transparent&layout=donut"/>
+  <img src="https://github-readme-stats-ornaras.vercel.app/api?username=ornaras&theme=transparent&show=reviews"/>
 </div>
