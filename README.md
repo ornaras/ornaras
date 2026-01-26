@@ -56,9 +56,9 @@
   
 </div>
 
-## ⏲️ WakaTime Stat (Last year) ⏲️
+## ⏲️ Wakapi Stat (Last year) ⏲️
 <div align="center">
-  <a href="https://wakatime.com/@ornaras"><img src="https://github-readme-stats-ornaras.vercel.app/api/wakatime?username=ornaras&theme=transparent&hide_title=true&layout=compact&hide_border=true"/></a>
+  <img src="https://github-readme-stats-ornaras.vercel.app/api/wakatime?username=ornaras&api_domain=waka.ornaras.ru&theme=transparent&hide_title=true&layout=compact&hide_border=true&custom_title=Wakapi.dev+Stats+%28All+Time%29"/>
 </div>
 
 # 🗂️ My Projects 🗂️
