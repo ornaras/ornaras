@@ -1,5 +1,3 @@
-![header](https://socialify.git.ci/ornaras/ornaras/image?custom_description=Developer+of+server+%26+desktop+software&custom_language=.NET&description=1&font=Source+Code+Pro&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fornaras%2Fornaras%2Frefs%2Fheads%2Fmain%2Flogo-header.svg&pattern=Diagonal+Stripes&theme=Dark)
-
 <div align="center">
 
 ### Developer focused on backend and desktop applications. Experienced in .NET ecosystem, deployment automation, and hardware integration. Currently working on [ScanKass](https://scankass.ru), maintaining the main application and developing the setup wizard, installer, and auxiliary libraries.
@@ -65,6 +63,7 @@
 <div align="center">
   
 [![PresentTime](https://raw.githubusercontent.com/ornaras/ornaras/refs/heads/main/repo-pins/PresentTime.svg)](https://github.com/ornaras/PresentTime)
+[![atol2astor](https://raw.githubusercontent.com/ornaras/ornaras/refs/heads/main/repo-pins/atol2astor.svg)](https://github.com/ornaras/atol2astor)
 [![PCBSLib](https://raw.githubusercontent.com/ornaras/ornaras/refs/heads/main/repo-pins/PCBSLib.svg)](https://github.com/ornaras/PCBSLib)
 [![HackerMan](https://raw.githubusercontent.com/ornaras/ornaras/refs/heads/main/repo-pins/HackerMan.svg)](https://github.com/ornaras/HackerMan)
 [![Hermes](https://raw.githubusercontent.com/ornaras/ornaras/refs/heads/main/repo-pins/Hermes.svg)](https://gitlab.com/ornaras/hermes)
