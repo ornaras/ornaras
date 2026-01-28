@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #006AFF }          
+    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87 }
+    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87 }
+    .icon { fill: #0579C3 }
+    .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
+    .badge rect { opacity: 0.2 }
+        </style>
+  <rect x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="399" fill="#ffffff00" stroke-opacity="1"/>
+  <g transform="translate(25, 35)">
+    <g>
+      <svg class="icon" x="0" y="-13" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+      </svg>
+    </g>
+    <g transform="translate(25, 0)">
+      <text x="0" y="0" class="header">atol2astor</text>
+    </g>
+  </g>
+  <g transform="translate(0, 55)">
+    <g class="badge" transform="translate(320, -18)">
+      <rect stroke="#434d58" stroke-width="1" width="70" height="20" x="-12" y="-14" ry="10" rx="10"/>
+      <text x="23" y="-5" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" fill="#434d58">
+        Archived
+      </text>
+    </g>
+    <text class="description" x="25" y="-10">
+      <tspan dy="1.2em" x="25">Automatic Frontol 6 Export Converter from Atol-format</tspan>
+      <tspan dy="1.2em" x="25">to ASTOR-format</tspan>
+    </text>
+    <g transform="translate(30, 45)">
+      <g>
+        <g>
+          <svg fill="#00add8" y="-13" x="-8" width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+          <text class="gray" x="15">Go</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
